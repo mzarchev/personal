@@ -1,2 +1,2 @@
 # personal
-A personal webpage
+A personal webpage.
